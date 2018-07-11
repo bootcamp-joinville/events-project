@@ -3,13 +3,13 @@
   border: none;
   box-shadow: 1px 1px 6px #bbb;
   color: #fff;
+  cursor: pointer;
   height: 260px;
-  position: relative;
-
   margin: 0 10px 20px;
-  width: 350px;
-  text-shadow: 1px 1px 1px #444;
   overflow: hidden;
+  position: relative;
+  text-shadow: 1px 1px 1px #444;
+  width: 350px;
 }
 
 .event-card_image {

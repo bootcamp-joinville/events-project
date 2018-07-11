@@ -1,0 +1,25 @@
+.modal-dialog {
+  overflow-y: initial !important
+}
+.modal-body {
+  max-height: calc(100vh - 400px);
+  overflow-y: auto;
+  margin: 10px;
+}
+.modal-title {
+  width: 100%;
+  text-align: center;
+  font-size: 1.5em;
+}
+.modal-title_image {
+  display: block;
+  margin: 0 auto 10px;
+  max-height: 70px
+}
+.modal-footer_container {
+  flex-grow: 1;
+}
+
+dd {
+  margin-bottom: 5px;
+}
