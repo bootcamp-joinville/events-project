@@ -1,0 +1,13 @@
+.App-header {
+  background: transparent url(../../img/logo.png) no-repeat left 20px;
+  background-size: 90px;
+  color: #333;
+  height: 130px;
+  margin: 0 auto 40px;
+  padding: 50px 0 0 110px;
+  border-bottom: 1px solid #ccc;
+}
+
+.App-title {
+  font-size: 1.5em;
+}
